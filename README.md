@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Visitor count:
-![Visitor Count](https://profile-counter.glitch.me/everget/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/everget/everget)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/everget)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/everget)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/everget)](https://badges.pufler.dev)
