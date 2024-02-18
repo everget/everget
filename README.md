@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Visitor count:
 ![Visitor Count](https://profile-counter.glitch.me/everget/count.svg)
