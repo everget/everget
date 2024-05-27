@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 
 [![Tech Stack](https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,js,ts,styledcomponents,reactivex,react,angular,vue,astro,htmx,nodejs,pnpm,vite,express,nextjs,remix,graphql,apollo,mongodb,sqlite,postgres,redis,prisma,lua,py,django,flask,fastapi,sklearn,ruby,rails,php,laravel,cs,java,octave,md,latex,git,gitlab,nginx,docker,kubernetes,githubactions,jenkins,sublime,vscode,pycharm,figma,ps,obsidian&theme=light)](https://skillicons.dev)
 
+### Stats
 
 [![Visits Badge](https://badges.pufler.dev/visits/everget/everget)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/everget)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/everget)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/everget)](https://badges.pufler.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everget&layout=compact)](https://github.com/everget/github-readme-stats)
