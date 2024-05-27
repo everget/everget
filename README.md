@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 [![Repos Badge](https://badges.pufler.dev/repos/everget)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/everget)](https://badges.pufler.dev)
 
-![everget's GitHub stats](https://github-readme-stats.vercel.app/api?username=everget&show_icons=true&include_all_commits=true&show=issues,reviews,prs_merged,prs_merged_percentage&count_private=true&theme=dracula)
+![everget's GitHub stats](https://github-readme-stats.vercel.app/api?username=everget&show_icons=true&include_all_commits=true&show=issues,prs_merged,prs_merged_percentage&count_private=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everget&layout=compact&theme=dracula)](https://github.com/everget/github-readme-stats)
