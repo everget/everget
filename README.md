@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **everget/everget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Tech Stack
+
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,js,ts,styledcomponents,reactivex,react,angular,vue,astro,htmx,nodejs,pnpm,vite,express,nextjs,remix,graphql,apollo,mongodb,sqlite,postgres,redis,prisma,lua,py,django,flask,fastapi,sklearn,ruby,rails,php,laravel,cs,java,octave,md,latex,git,gitlab,nginx,docker,kubernetes,githubactions,jenkins,sublime,vscode,pycharm,figma,ps,obsidian&theme=light)](https://skillicons.dev)
+
 
 [![Visits Badge](https://badges.pufler.dev/visits/everget/everget)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/everget)](https://badges.pufler.dev)
