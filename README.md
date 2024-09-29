@@ -16,27 +16,18 @@ Here are some ideas to get you started:
 -->
 
 ### Tech Stack
-
-##### Languages:
+#### Languages:
 [![Languages](https://skillicons.dev/icons?i=js,ts,coffeescript,python,ruby,lua,php,cs,java&theme=light)](https://skillicons.dev)
-
-##### Styling:
+#### Styling:
 [![Styling](https://skillicons.dev/icons?i=sass,less,bootstrap,tailwind,mui&theme=light)](https://skillicons.dev)
-
-##### Frontend:
+#### Frontend:
 [![Frontend](https://skillicons.dev/icons?i=pnpm,bun,gulp,rollup,webpack,vite,react,angular,vue,redux,reactivex,apollo&theme=light)](https://skillicons.dev)
-
-##### Backend:
+#### Backend:
 [![Backend](https://skillicons.dev/icons?i=nginx,nodejs,express,nextjs,prisma,graphql,apollo,rails,laravel&theme=light)](https://skillicons.dev)
-
-##### Databases:
+#### Databases:
 [![Databases](https://skillicons.dev/icons?i=sqlite,mongodb,postgres,mysql,redis&theme=light)](https://skillicons.dev)
-
-##### CI/CD:
-[![CI/CD](https://skillicons.dev/icons?i=git,github,gitlab,docker,githubactions,jenkins&theme=light)](https://skillicons.dev)
-
-##### Other:
-[![Other](https://skillicons.dev/icons?i=sublime,vscode,pycharm,figma,ps,obsidian,octave,latex&theme=light)](https://skillicons.dev)
+#### CI/CD:
+[![CI/CD](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,jenkins,docker&theme=light)](https://skillicons.dev)
 
 ### Stats
 
