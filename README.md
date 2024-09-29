@@ -17,7 +17,21 @@ Here are some ideas to get you started:
 
 ### Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=html,css,sass,less,bootstrap,tailwind,js,ts,styledcomponents,reactivex,react,angular,vue,astro,htmx,nodejs,pnpm,vite,express,nextjs,remix,graphql,apollo,mongodb,sqlite,postgres,redis,prisma,lua,py,django,flask,fastapi,sklearn,ruby,rails,php,laravel,cs,java,octave,md,latex,git,gitlab,nginx,docker,kubernetes,githubactions,jenkins,sublime,vscode,pycharm,figma,ps,obsidian&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,python,ruby,lua,php,cs,java&theme=light)](https://skillicons.dev)
+
+[![Styling](https://skillicons.dev/icons?i=sass,less,bootstrap,tailwind&theme=light)](https://skillicons.dev)
+
+[![Frontend](https://skillicons.dev/icons?i=pnpm,bun,vite,react,angular,vue,reactivex,apollo&theme=light)](https://skillicons.dev)
+
+[![Backend](https://skillicons.dev/icons?i=nginx,nodejs,express,fastify,nextjs,prisma,graphql,apollo,rails,laravel&theme=light)](https://skillicons.dev)
+
+[![Databases](https://skillicons.dev/icons?i=sqlite,mongodb,postgres,mysql,redis&theme=light)](https://skillicons.dev)
+
+[![CI/CD](https://skillicons.dev/icons?i=git,gitlab,docker,githubactions,jenkins&theme=light)](https://skillicons.dev)
+
+[![Editors](https://skillicons.dev/icons?i=sublime,vscode,pycharm&theme=light)](https://skillicons.dev)
+
+[![Other](https://skillicons.dev/icons?i=figma,ps,obsidian,octave,latex&theme=light)](https://skillicons.dev)
 
 ### Stats
 
