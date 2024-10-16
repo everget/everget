@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there, I'm Alex!
 
 [See my portfolio](https://portfolio-website-one-zeta-80.vercel.app/)
 
