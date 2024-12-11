@@ -29,14 +29,16 @@ Here are some ideas to get you started:
 
 ### Tech Stack
 #### Languages:
-[![Languages](https://skillicons.dev/icons?i=js,ts,python,ruby,lua&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,ruby,python,regex)](https://skillicons.dev)
 #### Styling:
-[![Styling](https://skillicons.dev/icons?i=css,sass,less,bootstrap,tailwind,mui&theme=light)](https://skillicons.dev)
+[![Styling](https://skillicons.dev/icons?i=sass,less,bootstrap,tailwind,mui,styledcomponents)](https://skillicons.dev)
 #### Frontend:
-[![Frontend](https://skillicons.dev/icons?i=pnpm,bun,gulp,rollup,webpack,vite,react,angular,redux,reactivex,apollo&theme=light)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=pnpm,bun,gulp,rollup,webpack,vite,svg,jquery,babel,react,angular,redux,reactivex,apollo)](https://skillicons.dev)
 #### Backend:
-[![Backend](https://skillicons.dev/icons?i=nginx,nodejs,express,nextjs,prisma,drizzle,graphql,apollo,rails&theme=light)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nginx,nodejs,express,nextjs,prisma,sequelize,graphql,rails)](https://skillicons.dev)
+#### Testing:
+[![Databases](https://skillicons.dev/icons?i=jest,vitest,cypress)](https://skillicons.dev)
 #### Databases:
-[![Databases](https://skillicons.dev/icons?i=sqlite,mongodb,postgres,mysql,redis&theme=light)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=sqlite,mongodb,postgres,mysql,redis)](https://skillicons.dev)
 #### CI/CD:
-[![CI/CD](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,jenkins,docker&theme=light)](https://skillicons.dev)
+[![CI/CD](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,jenkins,docker)](https://skillicons.dev)
