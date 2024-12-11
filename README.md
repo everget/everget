@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 
 ### Tech Stack
 #### Languages:
-[![Languages](https://skillicons.dev/icons?i=js,ts,coffeescript,python,ruby,lua,php,cs,java&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,python,ruby,lua&theme=light)](https://skillicons.dev)
 #### Styling:
-[![Styling](https://skillicons.dev/icons?i=sass,less,bootstrap,tailwind,mui&theme=light)](https://skillicons.dev)
+[![Styling](https://skillicons.dev/icons?i=css,sass,less,bootstrap,tailwind,mui&theme=light)](https://skillicons.dev)
 #### Frontend:
-[![Frontend](https://skillicons.dev/icons?i=pnpm,bun,gulp,rollup,webpack,vite,react,angular,vue,redux,reactivex,apollo&theme=light)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=pnpm,bun,gulp,rollup,webpack,vite,react,angular,redux,reactivex,apollo&theme=light)](https://skillicons.dev)
 #### Backend:
-[![Backend](https://skillicons.dev/icons?i=nginx,nodejs,express,nextjs,prisma,graphql,apollo,rails,laravel&theme=light)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nginx,nodejs,express,nextjs,prisma,drizzle,graphql,apollo,rails&theme=light)](https://skillicons.dev)
 #### Databases:
 [![Databases](https://skillicons.dev/icons?i=sqlite,mongodb,postgres,mysql,redis&theme=light)](https://skillicons.dev)
 #### CI/CD:
