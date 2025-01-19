@@ -1,7 +1,5 @@
 ## 👋 Hi there, I'm Alex!
 
-[See my portfolio](https://portfolio-website-one-zeta-80.vercel.app/)
-
 <!--
 **everget/everget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
