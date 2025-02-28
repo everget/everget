@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 [![Years Badge](https://badges.pufler.dev/years/everget)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/everget)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/everget)](https://badges.pufler.dev)
+![Codewars Badge](https://www.codewars.com/users/everget/badges/micro)
 
 <!--
 ![everget's GitHub stats](https://github-readme-stats.vercel.app/api?username=everget&show_icons=true&include_all_commits=true&show=issues,prs_merged,prs_merged_percentage&count_private=true&theme=dracula)
