@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 ### Stats
 
-[![Visits Badge](https://badges.pufler.dev/visits/everget/everget)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/everget)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/everget)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/everget)](https://badges.pufler.dev)
 ![Codewars Badge](https://www.codewars.com/users/everget/badges/micro)
 
 <!--
