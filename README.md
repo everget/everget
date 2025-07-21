@@ -26,16 +26,18 @@ Here are some ideas to get you started:
 
 ### Tech Stack
 #### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,ruby,python,regex)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,ruby,python,lua,regex,latex)](https://skillicons.dev)
 #### Styling:
-[![Styling](https://skillicons.dev/icons?i=sass,less,bootstrap,tailwind,mui,styledcomponents)](https://skillicons.dev)
+[![Styling](https://skillicons.dev/icons?i=figma,sass,less,bootstrap,tailwind,mui,styledcomponents)](https://skillicons.dev)
+#### Tools:
+[![Frontend](https://skillicons.dev/icons?i=npm,yarn,pnpm,bun,babel,gulp,rollup,webpack,vite)](https://skillicons.dev)
 #### Frontend:
-[![Frontend](https://skillicons.dev/icons?i=pnpm,bun,gulp,rollup,webpack,vite,svg,jquery,babel,react,angular,redux,reactivex,apollo)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=svg,jquery,react,angular,redux,reactivex,apollo)](https://skillicons.dev)
 #### Backend:
-[![Backend](https://skillicons.dev/icons?i=nginx,nodejs,express,nextjs,prisma,sequelize,graphql,rails)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nextjs,nestjs,prisma,sequelize,graphql,apollo,rails,nginx,rabbitmq,kafka)](https://skillicons.dev)
 #### Testing:
 [![Databases](https://skillicons.dev/icons?i=jest,vitest,cypress)](https://skillicons.dev)
 #### Databases:
-[![Databases](https://skillicons.dev/icons?i=sqlite,mongodb,postgres,mysql,redis)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=sqlite,postgres,mysql,redis,mongodb)](https://skillicons.dev)
 #### CI/CD:
 [![CI/CD](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,jenkins,docker)](https://skillicons.dev)
