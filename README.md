@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
 ### Tech Stack
 #### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,ruby,python,lua,regex,latex)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,ruby,python,lua)](https://skillicons.dev)
 #### Styling:
-[![Styling](https://skillicons.dev/icons?i=figma,sass,less,bootstrap,tailwind,mui,styledcomponents)](https://skillicons.dev)
+[![Styling](https://skillicons.dev/icons?i=figma,sass,less,bootstrap,styledcomponents,mui,tailwind)](https://skillicons.dev)
 #### Tools:
 [![Frontend](https://skillicons.dev/icons?i=npm,yarn,pnpm,bun,babel,gulp,rollup,webpack,vite)](https://skillicons.dev)
 #### Frontend:
-[![Frontend](https://skillicons.dev/icons?i=svg,jquery,react,angular,redux,reactivex,apollo)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,svg,jquery,react,angular,redux,reactivex)](https://skillicons.dev)
 #### Backend:
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,nextjs,nestjs,prisma,sequelize,graphql,apollo,rails,nginx,rabbitmq,kafka)](https://skillicons.dev)
 #### Testing:
